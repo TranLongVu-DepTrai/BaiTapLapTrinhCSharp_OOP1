@@ -5,7 +5,7 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace OOP_HomeWork_4
 {
-    class Program
+    class Program_Fraction
     {
         static void Main(string[] args)
         {
