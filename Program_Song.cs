@@ -6,7 +6,7 @@ using OOP_HomeWork_3;
 
 namespace OOP_HomeWork_3
 {
-    class Program
+    class Program_Song
     {
         static void Main(string[] args)
         {
