@@ -5,7 +5,7 @@ using OOP_HomeWork_1;
 namespace OOP_HomeWork_1
 {
    
-    class Program
+    class Program_XucXac
     {
         static void Main(string[] args)
         {
